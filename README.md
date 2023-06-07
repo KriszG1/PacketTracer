@@ -14,6 +14,12 @@ Tartalom:
 - agazati_gyakorlo_feladat_2_ready.pka
 
 
+Ágazati Gyakorló #3:
+- agazati_gyakorlo_feladat_3.odt
+- agazati_gyakorlo_feladat_3.pka
+- agazati_gyakorlo_feladat_3_ready.pka
+
+
 Ágazati Gyakorló #4:
 - agazati_gyakorlo_feladat_4.odt
 - agazati_gyakorlo_feladat_4.pka (megoldás nélküli)
